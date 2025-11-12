@@ -112,15 +112,8 @@ To identify the key factors that influence how, when, and what customers purchas
 | Bar Charts              | Show frequency by category, gender, and season     |
 | Boxplots & Violin Plots | Compare effects of discounts, promos, and shipping |
 | Heatmap                 | Visualize correlations among numeric variables     |
-| Treemap                 | Show product category share in total sales         |
-| Pie Chart               | Show gender-based purchase share                   |
+| Donot Chart               | Show gender-based purchase share                   |
 | Countplots              | Show subscription status and frequency relations   |
-
-All visualizations were designed using *modern professional color palettes* — like mako, rocket, crest, and icefire — ensuring:
-
-* No repeated colors
-* Distinct monochromatic shading
-* Clear, premium, presentation-ready visuals
 
 ---
 
